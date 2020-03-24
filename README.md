@@ -1,2 +1,3 @@
 # covid19-tracker
-A Next.js app to track the COVID-19 Outbreak.
+
+A Simple Next.js app to track the COVID-19 Outbreak.
